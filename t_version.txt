@@ -1,6 +1,4 @@
 1.0.0
 
-- Add "StashCraft" information to install.md's
-- Improve error debug events for missing items
-- Fix Stash labels showing as target option labels
-- Fix Stash Props for counters when item in stash
+- TestUpdateMessage
+- アップデート内容
