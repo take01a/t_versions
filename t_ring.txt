@@ -1,1 +1,4 @@
 1.0.1
+
+-9行目のerror修正
+-https://github.com/take01a/t_ring
